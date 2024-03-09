@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+#hero-section{
+    height: 30vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    
+}
+.one{
+    width: 48%;
+    height: 100%;
+}
+#fname{
+    font-size :250%;
+}
+#name{
+    text-align: center;
+}
+#img{
+    width: 75%;
+    height: 95%;
+    border-radius: 50%;
+}
+#about-me{
+    text-align: center;
+    margin-top: 10%;
+    padding: 3%;
+}
+form{
+    margin-left: 25%;
+    width: 50%;
+    padding: 4%;
+    border-radius: 3% 3%;
+}
+#skill{
+    text-align: center;
+}
